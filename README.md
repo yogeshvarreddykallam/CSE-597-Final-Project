@@ -39,13 +39,6 @@ Datasets
 FashionIQ: A dataset for fashion image retrieval and text-based search.
 MS-COCO: A widely used dataset containing images and corresponding captions for multi-modal tasks.
 CIRCO (optional): Can be used if available for composed image retrieval tasks.
-Example Query
-After running the notebook, you can input queries like the following to test the framework’s zero-shot retrieval abilities:
-
-"green dress with floral patterns and lace trim"
-"black jacket with leather sleeves and zip closure"
-"a yellow sneaker with red soles and white laces"
-The system will return the most relevant images from the dataset that match the composed description.
 
 
 License
