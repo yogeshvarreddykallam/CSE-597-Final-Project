@@ -15,24 +15,19 @@ These works provided insights into how CLIP can be used for image-text alignment
 
 Installation
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/SEARLE.git
 cd SEARLE
 Install dependencies:
 
 Ensure you have Python 3.x installed.
 Install required libraries using pip:
-bash
-Copy code
 pip install -r requirements.txt
 Download datasets (FashionIQ, MS-COCO, etc.):
 
 The datasets used in the notebook can be downloaded from their respective sources. Please follow their guidelines for access and usage.
 Run the Jupyter Notebook:
 
-Open the provided Jupyter notebook file (extension_notebook.ipynb) to run the extension on the datasets.
+Open the provided Jupyter notebook file (vilangnotebook.ipynb) to run the extension on the datasets.
 
 jupyter notebook extension_notebook.ipynb
 Usage
